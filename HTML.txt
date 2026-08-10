@@ -1,0 +1,1663 @@
+<!DOCTYPE html>
+
+<html lang="ar">
+
+<head>
+
+<meta charset="utf-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<meta name="csrf-token" content="Vjp8P3LuKHwyQnIzj3HjO9PZaQ5ASPZdCISxBPAC">
+
+<title>جامعة بنها الأهلية | الرئيسية
+
+</title>
+
+<meta name="description" content="Benha National University website الموقع الرسمى لجامعة بنها الأهلية"/>
+
+<meta name="keywords" content="جامعة بنها الأهلية,بنها الأهليه,الجامعات الأهلية, المجلس الأعلى, Benha National University, National University, National, Higher education"/>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+<link rel='alternate' type='application/rss+xml' title='Benha National University' href='https://bu.edu.eg/Rss.xml'/>
+
+<link rel='alternate' type='application/rss+xml' title='Benha National University' href='sitemap.xml' />
+
+<meta name='robots' content='all, index, follow'/>
+
+<meta name='revisit-after' content='1 days'/>
+
+<meta name='author' content='البوابة الإلكترونية لجامعة بنها الأهلية'/>
+
+<meta name='contact' content='dev1@bu.edu.eg'/>
+
+<meta name='copyright' content='جامعة بنها الأهلية'/>
+
+<meta name='distribution' content='global'/>
+
+<meta name='language' content='ar'/>
+
+<meta name="reply-to" content="dev1@bu.edu.eg">
+
+<meta name="verify-a" value="a21ebbc1919b6604776f">
+
+<link rel="shortcut icon" href="https://bnu.edu.eg/assets/img/logo.png" type="image/x-icon">
+
+<meta property="og:logo" content="logo150.png" size="150x150" />
+
+<meta property="og:logo" content="logo250.png" size="250x250" />
+
+<meta property="og:logo" content="logo500.png" size="500x500" />
+
+
+
+<meta property="fb:app_id" content="807890910574694"/>
+
+<meta property="og:type" content="website" />
+
+<meta property="og:image" content="" />
+
+<meta property="og:description" content=""/>
+
+<meta property="og:title" content="جامعة بنها الأهلية | الرئيسية
+
+" />
+
+
+
+
+
+<link media="all" type="text/css" rel="stylesheet" href="https://bnu.edu.eg/assets/vendor/bootstrap/css/bootstrap.min.css">
+
+<link media="all" type="text/css" rel="stylesheet" href="https://bnu.edu.eg/assets/vendor/animate.css/animate.min.css">
+
+<link media="all" type="text/css" rel="stylesheet" href="https://bnu.edu.eg/assets/vendor/swiper/swiper-bundle.min.css">
+
+<link media="all" type="text/css" rel="stylesheet" href="https://bnu.edu.eg/assets/vendor/boxicons/css/boxicons.min.css">
+
+<link media="all" type="text/css" rel="stylesheet" href="https://bnu.edu.eg/assets/vendor/glightbox/css/glightbox.min.css">
+
+<link media="all" type="text/css" rel="stylesheet" href="https://bnu.edu.eg/assets/vendor/fontawesome/css/all.min.css">
+
+<link media="all" type="text/css" rel="stylesheet" href="https://bnu.edu.eg/assets/vendor/snow/snow.css">
+
+<link media="all" type="text/css" rel="stylesheet" href="https://bnu.edu.eg/assets/css/style.css">
+
+
+
+
+
+<script>
+
+window.Laravel = {"csrfToken":"Vjp8P3LuKHwyQnIzj3HjO9PZaQ5ASPZdCISxBPAC"};
+
+</script>
+
+
+
+
+
+</head>
+
+<body>
+
+
+
+<div class="spinner-wrapper">
+
+<div class="spinner">
+
+<div class="rect1"></div>
+
+<div class="rect2"></div>
+
+<div class="rect3"></div>
+
+<div class="rect4"></div>
+
+<div class="rect5"></div>
+
+</div>
+
+</div>
+
+<!-- Sonw Div
+
+
+
+<div id="container">
+
+<div id="snowContainer" class="row">
+
+</div>
+
+</div>
+
+
+
+End Sonw Div -->
+
+
+
+<!-- ======= Top Bar ======= -->
+
+<section id="topbar">
+
+<div class="container d-flex">
+
+<!-- Start Search Icon -->
+
+<div class="search-wrapper">
+
+<div id="search-menu" class="">
+
+<a href="#" class="close-button" id="close-search"> <em class="fal fa-times"></em> </a> <!-- Close button -->
+
+<div class="form-wrapper"> <!-- Search panel -->
+
+<form class="" method="get" action="https://bnu.edu.eg/search" autocomplete="off" style="">
+
+<input id="popup-search" type="search" name="q" placeholder="أكتب كلمة بحثك هنا">
+
+<button class="pk-search-submit" type="submit">
+
+<span><i class="fa fa-long-arrow-left"></i></span>
+
+<span><i class="fa fa-search" style=""></i></span>
+
+</button>
+
+</form>
+
+<h5 class="text-white pt-3">أكتب كلمة بحثك هنا </h5>
+
+</div> <!-- End Search panel -->
+
+</div>
+
+<div class="search-button"><!-- button on page -->
+
+<button class="open-button"><i class="bx bx-search-alt text-white me-3 active" id="search-icon"></i></button>
+
+</div><!-- end button on page -->
+
+</div>
+
+<!-- End Search Icon -->
+
+<div class="social-links">
+
+<a href="https://facebook.com/BenhaNationalUniversity" class="facebook" target="_blank"><i class="fab fa-facebook-square"></i></a>
+
+<a href="https://linkedin.com/school/BenhaNationalUniversity" class="linkedin" target="_blank"><i class="fab fa-linkedin"></i></a>
+
+<a href="https://instagram.com/BenhaNationalUniversity" class="instagram" target="_blank"><i class="fab fa-instagram-square"></i></a>
+
+<a href="https://twitter.com/BenhaNational" class="twitter" target="_blank"><i class="fab fa-twitter-square"></i></a>
+
+<a href="https://www.youtube.com/channel/UC_8YOKgaBziBwIczl85xWHQ" class="youtube" target="_blank"><i class="fab fa-youtube-square"></i></a>
+
+<a href="tel:+01205223222" class="whatsapp"><i class="fab fa-whatsapp-square" target="_blank"></i></a>
+
+<a href="https://outlook.office365.com" class="office365" target="_blank"><i class="fab fa-microsoft"></i></a>
+
+<a class="dropdown-item" hreflang="en"
+
+href="https://bnu.edu.eg/en" title="English" alt="English">
+
+<i class="fas fa-language"></i></a>
+
+<!--<a href="#" class="rss"><i class="fas fa-rss-square"></i></a>
+
+<a href="https://outlook.office365.com" target="_blank" class="mail py-0 d-inline-flex"><img src="https://bnu.edu.eg/assets/img/out.png" class="img-fluid"></a>-->
+
+</div>
+
+</div>
+
+</section>
+
+
+
+<!-- ======= Header ======= -->
+
+<header id="header" class="d-flex">
+
+<div class="container d-flex align-items-center">
+
+<div class="logo">
+
+<a href="https://bnu.edu.eg">
+
+<div class="d-flex align-items-center">
+
+<img src="https://bnu.edu.eg/assets/img/logo.png" class="img-fluid"/>
+
+<h1> جامعة بنها الأهلية </h1>
+
+</div>
+
+</a>
+
+</div>
+
+
+
+<!-- Start nav menu -->
+
+<nav class="nav-menu d-none d-lg-block">
+
+<ul>
+
+<li >
+
+<a href="https://bnu.edu.eg"
+
+>
+
+الرئيسية
+
+</a>
+
+
+
+</li>
+
+
+
+<li class="drop-down" >
+
+<a href="javascript:void(0);"
+
+>
+
+عن الجامعة
+
+</a>
+
+
+
+<ul>
+
+<li>
+
+<a href="https://bnu.edu.eg/page/about" class=" waves-effect waves-block">
+
+نبذة عن الجامعة
+
+</a>
+
+</li>
+
+<li>
+
+<a href="https://bnu.edu.eg/page/BU_Welcome_Message" class=" waves-effect waves-block">
+
+كلمة رئيس الجامعة
+
+</a>
+
+</li>
+
+<li>
+
+<a href="https://bnu.edu.eg/page/trustees_board" class=" waves-effect waves-block">
+
+مجلس الأمناء
+
+</a>
+
+</li>
+
+<li>
+
+<a href="https://bnu.edu.eg/page/trustees_board_counselors" class=" waves-effect waves-block">
+
+مستشاري مجلس الأمناء
+
+</a>
+
+</li>
+
+<li>
+
+<a href="https://bnu.edu.eg/page/academic_leaders" class=" waves-effect waves-block">
+
+القيادات الاكاديمية
+
+</a>
+
+</li>
+
+<li>
+
+<a href="https://bnu.edu.eg/page/vission&amp;mission" class=" waves-effect waves-block">
+
+رؤية ورسالة الجامعة
+
+</a>
+
+</li>
+
+</ul>
+
+
+
+</li>
+
+
+
+<li class="drop-down" >
+
+<a href="javascript:void(0);"
+
+>
+
+قطاعات الجامعة
+
+</a>
+
+
+
+<ul>
+
+<li>
+
+<a href="https://academic.bnu.edu.eg" class=" waves-effect waves-block">
+
+قطاع الشئون الأكاديمية
+
+</a>
+
+</li>
+
+<li>
+
+<a href="https://ir.bnu.edu.eg" class=" waves-effect waves-block">
+
+قطاع العلاقات الدولية
+
+</a>
+
+</li>
+
+<li>
+
+<a href="https://egia.bnu.edu.eg" class=" waves-effect waves-block">
+
+قطاع التوظيف والابتكار وريادة الأعمال
+
+</a>
+
+</li>
+
+</ul>
+
+
+
+</li>
+
+
+
+<li class="drop-down" >
+
+<a href="javascript:void(0);"
+
+>
+
+الطلاب
+
+</a>
+
+
+
+<ul>
+
+<li>
+
+<a href="https://bnu.edu.eg/page/student-services" class=" waves-effect waves-block">
+
+خدمات إلكترونية
+
+</a>
+
+</li>
+
+<li>
+
+<a href="https://bnu.edu.eg/page/student-activities" class=" waves-effect waves-block">
+
+أنشطة طلابية
+
+</a>
+
+</li>
+
+<li>
+
+<a href="https://bnu.edu.eg/page/admissions_policies" class=" waves-effect waves-block">
+
+سياسة القبول
+
+</a>
+
+</li>
+
+<li>
+
+<a href="https://bnu.edu.eg/page/foreign-students" class=" waves-effect waves-block">
+
+الطلاب الوافدين
+
+</a>
+
+</li>
+
+<li>
+
+<a href="https://bnu.edu.eg/page/student-union-council" class=" waves-effect waves-block">
+
+مجلس إتحاد الطلاب
+
+</a>
+
+</li>
+
+<li>
+
+<a href="https://bnu.edu.eg/page/tuition-fees" class=" waves-effect waves-block">
+
+المصروفات
+
+</a>
+
+</li>
+
+</ul>
+
+
+
+</li>
+
+
+
+<li >
+
+<a href="https://bnu.edu.eg/page/faculties"
+
+>
+
+الكليات
+
+</a>
+
+
+
+</li>
+
+
+
+<li >
+
+<a href="https://bnu.edu.eg/page/e-services"
+
+>
+
+خدمات إلكترونية
+
+</a>
+
+
+
+</li>
+
+
+
+<li >
+
+<a href="https://bnu.edu.eg/page/scholarships"
+
+>
+
+المنح
+
+</a>
+
+
+
+</li>
+
+
+
+<li >
+
+<a href="https://bnu.edu.eg/page/album"
+
+>
+
+ألبوم صور
+
+</a>
+
+
+
+</li>
+
+
+
+<li >
+
+<a href="https://bnu.edu.eg/news"
+
+>
+
+الأخبار
+
+</a>
+
+
+
+</li>
+
+
+
+<li >
+
+<a href="https://bnu.edu.eg/page/contact"
+
+>
+
+إتصل بنا
+
+</a>
+
+
+
+</li>
+
+
+
+
+
+
+
+</ul>
+
+</nav>
+
+<!-- nav-menu -->
+
+
+
+</div>
+
+</header>
+
+<!-- End Header -->
+
+<div>
+
+<!-- ======= Intro Section ======= -->
+
+<div class="intro intro-carousel swiper position-relative" data-pause="hover">
+
+<div class="swiper-wrapper">
+
+<div class="swiper-slide carousel-item-a intro-item bg-image"
+
+style="background-image: url(https://bnu.edu.eg/files/76992_1783327726.jpg)">
+
+<div class="overlay overlay-a"></div>
+
+<div class="intro-content">
+
+<div class="container">
+
+<div class="row">
+
+<div class="col-lg-8">
+
+<div class="intro-body">
+
+<h2 class="intro-title animate__animated animate__fadeInDown">
+
+في إنجاز جديد يعكس تميز منظومتها الإدارية.. جامعة بنها الأهلية أول جامعة أهلية تحصل على ثلاث شهادات دولية لأنظمة الإدارة المتكاملة (ISO)</h2>
+
+<p class="intro-subtitle intro-details animate__animated animate__fadeInUp spacial">
+
+<a href="https://bnu.edu.eg/slider/25/view"><span
+
+class="details-a">التفاصيل </span></a>
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+
+
+<div class="swiper-slide carousel-item-a intro-item bg-image"
+
+style="background-image: url(https://bnu.edu.eg/files/14975_1769258430.jpg)">
+
+<div class="overlay overlay-a"></div>
+
+<div class="intro-content">
+
+<div class="container">
+
+<div class="row">
+
+<div class="col-lg-8">
+
+<div class="intro-body">
+
+<h2 class="intro-title animate__animated animate__fadeInDown">
+
+جامعة بنها الأهلية تنظم ندوة تعريفية حول فرص الدراسة والتدريب بجامعة لويفيل الأمريكية</h2>
+
+<p class="intro-subtitle intro-details animate__animated animate__fadeInUp spacial">
+
+<a href="https://bnu.edu.eg/slider/24/view"><span
+
+class="details-a">التفاصيل </span></a>
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+
+
+<div class="swiper-slide carousel-item-a intro-item bg-image"
+
+style="background-image: url(https://bnu.edu.eg/files/83481_1761464927.jpg)">
+
+<div class="overlay overlay-a"></div>
+
+<div class="intro-content">
+
+<div class="container">
+
+<div class="row">
+
+<div class="col-lg-8">
+
+<div class="intro-body">
+
+<h2 class="intro-title animate__animated animate__fadeInDown">
+
+في إطار جولته اليوم بمحافظة القليوبية: رئيس الوزراء يتفقد جامعة بنها الأهلية بمدينة العبور</h2>
+
+<p class="intro-subtitle intro-details animate__animated animate__fadeInUp spacial">
+
+<a href="https://bnu.edu.eg/slider/23/view"><span
+
+class="details-a">التفاصيل </span></a>
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+
+
+<div class="swiper-slide carousel-item-a intro-item bg-image"
+
+style="background-image: url(https://bnu.edu.eg/files/73634_1750342123.jpg)">
+
+<div class="overlay overlay-a"></div>
+
+<div class="intro-content">
+
+<div class="container">
+
+<div class="row">
+
+<div class="col-lg-8">
+
+<div class="intro-body">
+
+<h2 class="intro-title animate__animated animate__fadeInDown">
+
+تعاون بحثي جديد بين القوات المسلحة وجامعة بنها الأهلية لتعزيز الابتكار الطبي والتعليم المتقدم</h2>
+
+<p class="intro-subtitle intro-details animate__animated animate__fadeInUp spacial">
+
+<a href="https://bnu.edu.eg/slider/22/view"><span
+
+class="details-a">التفاصيل </span></a>
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+
+
+<div class="swiper-slide carousel-item-a intro-item bg-image"
+
+style="background-image: url(https://bnu.edu.eg/files/44037_1750342063.jpg)">
+
+<div class="overlay overlay-a"></div>
+
+<div class="intro-content">
+
+<div class="container">
+
+<div class="row">
+
+<div class="col-lg-8">
+
+<div class="intro-body">
+
+<h2 class="intro-title animate__animated animate__fadeInDown">
+
+خلال احتفالية تنصيب أول اتحاد طلابي: رئيس جامعة بنها الأهلية: حريصون على إعداد كوادر شبابية قادرة على قيادة المستقبل</h2>
+
+<p class="intro-subtitle intro-details animate__animated animate__fadeInUp spacial">
+
+<a href="https://bnu.edu.eg/slider/21/view"><span
+
+class="details-a">التفاصيل </span></a>
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+
+
+<div class="swiper-slide carousel-item-a intro-item bg-image"
+
+style="background-image: url(https://bnu.edu.eg/files/88964_1739527763.jpg)">
+
+<div class="overlay overlay-a"></div>
+
+<div class="intro-content">
+
+<div class="container">
+
+<div class="row">
+
+<div class="col-lg-8">
+
+<div class="intro-body">
+
+<h2 class="intro-title animate__animated animate__fadeInDown">
+
+&quot;السعيد&quot;: قرار وزارى ببدء الدراسة بكلية علوم الطاقة بجامعة بنها الأهلية</h2>
+
+<p class="intro-subtitle intro-details animate__animated animate__fadeInUp spacial">
+
+<a href="https://bnu.edu.eg/slider/20/view"><span
+
+class="details-a">التفاصيل </span></a>
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+
+
+<div class="swiper-slide carousel-item-a intro-item bg-image"
+
+style="background-image: url(https://bnu.edu.eg/files/48498_1736097066.jpg)">
+
+<div class="overlay overlay-a"></div>
+
+<div class="intro-content">
+
+<div class="container">
+
+<div class="row">
+
+<div class="col-lg-8">
+
+<div class="intro-body">
+
+<h2 class="intro-title animate__animated animate__fadeInDown">
+
+جامعة بنها الأهلية تستضيف لجنة قطاع الدراسات الهندسية بالمجلس الأعلى للجامعات</h2>
+
+<p class="intro-subtitle intro-details animate__animated animate__fadeInUp spacial">
+
+<a href="https://bnu.edu.eg/slider/19/view"><span
+
+class="details-a">التفاصيل </span></a>
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+
+
+<div class="swiper-slide carousel-item-a intro-item bg-image"
+
+style="background-image: url(https://bnu.edu.eg/files/70779_1729419903.jpg)">
+
+<div class="overlay overlay-a"></div>
+
+<div class="intro-content">
+
+<div class="container">
+
+<div class="row">
+
+<div class="col-lg-8">
+
+<div class="intro-body">
+
+<h2 class="intro-title animate__animated animate__fadeInDown">
+
+لبحث سبل التعاون .. جامعة بنها الأهلية تستقبل وفدا من أحد الجامعات الدولية</h2>
+
+<p class="intro-subtitle intro-details animate__animated animate__fadeInUp spacial">
+
+<a href="https://bnu.edu.eg/slider/17/view"><span
+
+class="details-a">التفاصيل </span></a>
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+
+
+<div class="swiper-slide carousel-item-a intro-item bg-image"
+
+style="background-image: url(https://bnu.edu.eg/files/58023_1690797424.jpeg)">
+
+<div class="overlay overlay-a"></div>
+
+<div class="intro-content">
+
+<div class="container">
+
+<div class="row">
+
+<div class="col-lg-8">
+
+<div class="intro-body">
+
+<h2 class="intro-title animate__animated animate__fadeInDown">
+
+زيارة طلاب كلية الهندسة للمشروعات القومية بالعاصمة الإدارية الجديدة</h2>
+
+<p class="intro-subtitle intro-details animate__animated animate__fadeInUp spacial">
+
+<a href="https://bnu.edu.eg/slider/11/view"><span
+
+class="details-a">التفاصيل </span></a>
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+
+
+</div>
+
+<div class="swiper-pagination"></div>
+
+</div><!-- End Intro Section -->
+
+
+
+<!-- Start main -->
+
+<main id="main">
+
+
+
+<!-- ======= news Section ======= -->
+
+<section id="news" class="news pt-5">
+
+<!-- Content -->
+
+<div class="container-fluid news">
+
+
+
+<div class="container">
+
+
+
+<!-- Nav tabs -->
+
+
+
+<div class="row pb-4 title justify-content-center">
+
+<h2 class="text-center"> أحدث الأخبار </h2>
+
+</div>
+
+
+
+<div class="row">
+
+<div class="col-lg-4 col-md-6 col-12 text-right d-flex justify-content-center">
+
+<div class="card">
+
+<div class="card-img lazyloaded"
+
+style="background-image:url(https://bnu.edu.eg/files/68661_1786355554.jfif);"
+
+alt="جامعة بنها الأهلية تحصد المركز الرابع في مسابقة Innovative Bridge Competition 2026">
+
+<div class="overlay">
+
+<div class="overlay-content">
+
+<a href="https://bnu.edu.eg/news/885/view"> المزيد
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="card-content">
+
+<p><i class="fas fa-calendar-alt" aria-hidden="true"></i> 2026-08-09</p>
+
+<a href="https://bnu.edu.eg/news/885/view">
+
+<h2 class="text-justify">جامعة بنها الأهلية تحصد المركز الرابع في مسابقة Innovative Bridge Competition 2026 </h2>
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<div class="col-lg-4 col-md-6 col-12 text-right d-flex justify-content-center">
+
+<div class="card">
+
+<div class="card-img lazyloaded"
+
+style="background-image:url(https://bnu.edu.eg/files/99170_1786283433.jfif);"
+
+alt="تنسيق كليات جامعة بنها الأهلية للعام الجامعي 2027/2026">
+
+<div class="overlay">
+
+<div class="overlay-content">
+
+<a href="https://bnu.edu.eg/news/884/view"> المزيد
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="card-content">
+
+<p><i class="fas fa-calendar-alt" aria-hidden="true"></i> 2026-08-08</p>
+
+<a href="https://bnu.edu.eg/news/884/view">
+
+<h2 class="text-justify">تنسيق كليات جامعة بنها الأهلية للعام الجامعي 2027/2026 </h2>
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<div class="col-lg-4 col-md-6 col-12 text-right d-flex justify-content-center">
+
+<div class="card">
+
+<div class="card-img lazyloaded"
+
+style="background-image:url(https://bnu.edu.eg/files/63573_1786282847.jfif);"
+
+alt="جامعة بنها الأهلية تستقبل وفد المدرسة الصيفية لجامعة نانجينج للطب الصيني لتعزيز التعاون الدولي والتبادل الثقافي">
+
+<div class="overlay">
+
+<div class="overlay-content">
+
+<a href="https://bnu.edu.eg/news/883/view"> المزيد
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="card-content">
+
+<p><i class="fas fa-calendar-alt" aria-hidden="true"></i> 2026-08-07</p>
+
+<a href="https://bnu.edu.eg/news/883/view">
+
+<h2 class="text-justify">جامعة بنها الأهلية تستقبل وفد المدرسة الصيفية لجامعة نانجينج للطب الصيني لتعزيز التعاون الدولي والتبادل الثقافي </h2>
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<div class="col-lg-4 col-md-6 col-12 text-right d-flex justify-content-center">
+
+<div class="card">
+
+<div class="card-img lazyloaded"
+
+style="background-image:url(https://bnu.edu.eg/files/44033_1786279882.jpg);"
+
+alt="رئيس جامعة بنها الأهلية يشارك في افتتاح معرض «أخبار اليوم» التعليمي 2026">
+
+<div class="overlay">
+
+<div class="overlay-content">
+
+<a href="https://bnu.edu.eg/news/882/view"> المزيد
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="card-content">
+
+<p><i class="fas fa-calendar-alt" aria-hidden="true"></i> 2026-08-07</p>
+
+<a href="https://bnu.edu.eg/news/882/view">
+
+<h2 class="text-justify">رئيس جامعة بنها الأهلية يشارك في افتتاح معرض «أخبار اليوم» التعليمي 2026 </h2>
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<div class="col-lg-4 col-md-6 col-12 text-right d-flex justify-content-center">
+
+<div class="card">
+
+<div class="card-img lazyloaded"
+
+style="background-image:url(https://bnu.edu.eg/files/53787_1786279129.jpeg);"
+
+alt="اعرف كليتك | كلية طب الأسنان بجامعة بنها الأهلية">
+
+<div class="overlay">
+
+<div class="overlay-content">
+
+<a href="https://bnu.edu.eg/news/881/view"> المزيد
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="card-content">
+
+<p><i class="fas fa-calendar-alt" aria-hidden="true"></i> 2026-08-06</p>
+
+<a href="https://bnu.edu.eg/news/881/view">
+
+<h2 class="text-justify">اعرف كليتك | كلية طب الأسنان بجامعة بنها الأهلية </h2>
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<div class="col-lg-4 col-md-6 col-12 text-right d-flex justify-content-center">
+
+<div class="card">
+
+<div class="card-img lazyloaded"
+
+style="background-image:url(https://bnu.edu.eg/files/47829_1786278536.jpeg);"
+
+alt="اعرف كليتك | كلية الهندسة بجامعة بنها الأهلية">
+
+<div class="overlay">
+
+<div class="overlay-content">
+
+<a href="https://bnu.edu.eg/news/880/view"> المزيد
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="card-content">
+
+<p><i class="fas fa-calendar-alt" aria-hidden="true"></i> 2026-08-05</p>
+
+<a href="https://bnu.edu.eg/news/880/view">
+
+<h2 class="text-justify">اعرف كليتك | كلية الهندسة بجامعة بنها الأهلية </h2>
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+</div>
+
+
+
+<div class="row py-3 justify-content-center news-services">
+
+<a href="https://bnu.edu.eg/news" class="mx-2 btn">
+
+<button type="button" class="col-lg-2 col-6 bgDark text-bold text-white py-3 btn"> المزيد من الأخبار <i
+
+class="far fa-newspaper"></i></button></a>
+
+</div>
+
+
+
+</div>
+
+</div>
+
+<!-- End Content -->
+
+</section>
+
+<!-- End news Section -->
+
+
+
+<!-- ======= news Section ======= -->
+
+<section id="faculties" class="faculties pb-0">
+
+<div class="col-12 faculties-overlay">
+
+<div class="container aos-init aos-animate pb-5 " data-aos="fade-up">
+
+<div class="row py-4 title justify-content-center">
+
+
+<h2 class="text-center text-white"> الكليات </h2>
+</div>
+<div class="row gy-4">
+<div class="col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+<div class="faculty-item position-relative">
+<div class="icon">
+<i class="fa-solid fa-user-doctor"></i>
+</div>
+<h3><a href="https://med.bnu.edu.eg" target="_blank"> الطب البشري </a></h3>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
+<div class="faculty-item position-relative">
+<div class="icon">
+<i class="fa-solid fa-tooth"></i>
+</div>
+<h3><a href="https://den.bnu.edu.eg" target="_blank"> طب الأسنان </a></h3>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
+<div class="faculty-item position-relative">
+<div class="icon">
+<i class="fa-solid fa-person-dots-from-line"></i>
+</div>
+<h3><a href="https://pt.bnu.edu.eg" target="_blank"> العلاج الطبيعي </a></h3>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+<div class="faculty-item position-relative">
+<div class="icon">
+<i class="fa-solid fa-user-gear"></i>
+</div>
+<h3><a href="https://eng.bnu.edu.eg" target="_blank"> الهندسة </a></h3>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
+<div class="faculty-item position-relative">
+<div class="icon">
+<i class="fa-solid fa-user-astronaut"></i>
+</div>
+<h3><a href="https://cs.bnu.edu.eg" target="_blank"> علوم الحاسب </a></h3>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
+<div class="faculty-item position-relative">
+<div class="icon">
+<i class="fa-solid fa-user-tie"></i>
+</div>
+<h3><a href="https://eba.bnu.edu.eg" target="_blank"> الاقتصاد وإدارة الأعمال </a></h3>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
+<div class="faculty-item position-relative">
+<div class="icon">
+<i class="fa-solid fa-shield-cat"></i>
+</div>
+<h3><a href="https://vm.bnu.edu.eg" target="_blank"> الطب البيطري </a></h3>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
+<div class="faculty-item position-relative">
+<div class="icon">
+<i class="fa-solid fa-palette"></i>
+</div>
+<h3><a href="https://vad.bnu.edu.eg" target="_blank"> الفنون البصرية والتصميم </a></h3>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
+<div class="faculty-item position-relative">
+<div class="icon">
+<i class="fa-solid fa-bolt"></i>
+</div>
+<h3><a href="https://es.bnu.edu.eg/" target=" _blank"> علوم الطاقة </a></h3>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</section>
+
+<!-- ======= services Section ======= -->
+<section id="services" class="services pt-0">
+<div class="container-fluid section-padding aos-init aos-animate" data-aos-delay="100">
+<div class="section-header text-center d-flex justify-content-center">
+<h2 class="service-title py-3 px-5"><a
+href="https://bnu.edu.eg/page/e-services">خدمات إلكترونية </a></h2>
+</div>
+
+<div class="row pt-2 mx-0 align-items-center">
+<!-- Img -->
+<div class="col-lg-3 col-md-12 col-sm-12 col-12 d-flex justify-content-center">
+<div class="show-box wow fadeInUp animated d-flex align-items-center" data-wow-delay="0.3s">
+<img src="https://bnu.edu.eg/assets/img/services.png" class="img-fluid m-auto d-block text-center px-5"
+alt="">
+</div>
+</div>
+
+<!-- First Column -->
+<div class="col-lg-3 col-md-4 col-sm-12 col-12 animate__animated animate__fadeInDown">
+<div class="row align-items-end">
+<div class="col-3">
+<img src="https://bnu.edu.eg/assets/img/staff.png" class="img-fluid">
+</div>
+
+<div class="col-md-7 col-9">
+<h4><a href="https://bnu.edu.eg/page/staff-services"> هيئة التدريس </a></h4>
+</div>
+</div>
+</div>
+<!-- Second Column -->
+<div class="col-lg-3 col-md-4 col-sm-12 col-12 pt-md-0 pt-3 animate__animated animate__fadeInUp">
+<div class="row align-items-end">
+<div class="col-3">
+<img src="https://bnu.edu.eg/assets/img/student.png" class="img-fluid">
+</div>
+<div class="col-md-7 col-9">
+<h4><a href="https://bnu.edu.eg/page/student-services"> الطلاب </a></h4>
+</div>
+</div>
+</div>
+<!-- End -->
+
+<!-- Third Column -->
+<div class="col-lg-3 col-md-4 col-sm-12 col-12 pt-md-0 pt-3 animate__animated animate__fadeInUp">
+<div class="row align-items-end">
+<div class="col-3">
+<img src="https://bnu.edu.eg/assets/img/Employee.png" class="img-fluid">
+</div>
+<div class="col-md-7 col-9">
+<h4>الإداريين </h4>
+</div>
+</div>
+</div>
+<!-- End -->
+
+</div>
+</div>
+</section>
+<!-- End services Section -->
+
+<!-- ======= Stats Section ======= -->
+<section id="stats" class="stats section pb-0">
+<div class="col-12 stats-overlay">
+<div class="container aos-init aos-animate pb-5" data-aos="fade-up">
+
+<div class="row py-4 title justify-content-center">
+<h2 class="text-center text-white"> إحصائيات </h2>
+</div>
+
+<div class="row gy-4 justify-content-between">
+
+<div class="col-lg-3 col-md-6">
+<div class="stats-item d-flex align-items-center w-100 h-100">
+<i class="fas fa-user-friends"></i>
+<div>
+<span data-purecounter-start="0" data-purecounter-end="150" data-purecounter-duration="1" class="purecounter"></span>
+<p> عضو هيئة تدريس وهيئة معاونه </p>
+</div>
+</div>
+</div><!-- End Stats Item -->
+
+<div class="col-lg-2 col-md-6">
+<div class="stats-item d-flex align-items-center w-100 h-100">
+<i class="fas fa-users"></i>
+<div>
+<span data-purecounter-start="0" data-purecounter-end="250" data-purecounter-duration="1" class="purecounter"></span>
+<p> إداري </p>
+</div>
+</div>
+</div><!-- End Stats Item -->
+
+<div class="col-lg-2 col-md-6">
+<div class="stats-item d-flex align-items-center w-100 h-100">
+<i class="fas fa-user-friends"></i>
+<div>
+<span data-purecounter-start="0" data-purecounter-end="8300" data-purecounter-duration="1" class="purecounter"></span>
+<p> طالب </p>
+</div>
+</div>
+</div><!-- End Stats Item -->
+
+<div class="col-lg-3 col-md-6">
+<div class="stats-item d-flex align-items-center w-100 h-100">
+<i class="fas fa-globe"></i>
+<div>
+<span data-purecounter-start="0" data-purecounter-end="25" data-purecounter-duration="1" class="purecounter"></span>
+<p> طالب وافد </p>
+</div>
+</div>
+</div><!-- End Stats Item -->
+
+
+
+<div class="col-lg-2 col-md-6">
+<div class="stats-item d-flex align-items-center w-100 h-100">
+<i class="fas fa-building"></i>
+<div>
+<span data-purecounter-start="0" data-purecounter-end="9" data-purecounter-duration="1" class="purecounter"></span>
+<p> كليات </p>
+</div>
+</div>
+</div><!-- End Stats Item -->
+
+</div>
+
+</div>
+</div>
+</section>
+<!-- /Stats Section -->
+
+</main>
+<!-- End #main -->
+</div>
+<!-- ======= Footer ======= -->
+<footer id="footer">
+<div class="footer-top">
+<div class="container">
+<div class="row footers d-print-none">
+<div class="col-12 footer-links">
+<div class="row pt-3">
+<div class="col-lg-3 col-6">
+<h4 class="text-right pt-md-0 pt-3">عن الجامعة </h4>
+<!--<p class="text-white pr-3">تجهيز جامعة بنها الأهلية بمستوى جامعات الجيل الرابع بالإضافة إلى برامج دراسية حديثة تستجيب لاحتياجات سوق العمل</p>-->
+<iframe width="100%" src="https://www.youtube.com/embed/lSAaO7ywKog?si=UAHBPlx3YJSAnvbC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<div class="col-lg-3 col-6">
+<h4 class="text-right">روابط تهمك </h4>
+<ul class="text-white pr-3">
+<li><a href="https://bu.edu.eg/">جامعة بنها </a></li>
+<li><a href="https://digital.gov.eg/">مصر الرقمية </a></li>
+<li><a href="https://bnu.edu.eg/page/Egypt_2030">رؤية مصر 2030</a></li>
+<li><a href="https://bnu.edu.eg/page/Sustainability_policy">سياسة الاستدامة بالجامعة </a></li>
+<li><a href="https://bnu.edu.eg/page/Digital_Editions">إصدارات رقمية </a></li>
+<li><a href="https://bnu.edu.eg/page/gender_equality_plan_policy">تكافؤ الفرص وتمكين المرأة </a></li>
+<!--<li><a href="https://bnu.edu.eg/page/Academic_Timetable">الخريطة الزمنية </a></li>
+<li><a href="https://portal.bu.edu.eg/page/Organizational_Chart/view">فريق العمل </a></li>-->
+
+</ul>
+</div>
+
+<div class="col-lg-6 col-6">
+<h4 class="text-right pt-md-0 pt-3">اتصل بنا </h4>
+<ul class="text-white pr-3">
+<li>البريد الالكتروني: info@bnu.edu.eg</li>
+<li>العنوان: الحى الترفيهى - محور العبور الرئيسى - مدينة العبور </li>
+<!--<li>التليفون: </li>
+<li>الفاكس: </li>-->
+</ul>
+</div>
+
+
+</div>
+</div>
+</div>
+<!--<div class="row justify-content-between">
+<div class="col-lg-3 col-md-4 col-6 d-flex align-items-center">
+<a href="https://www.presidency.eg/AR/"> <img src="https://staticfresp.bu.edu.eg/img/ARE.png" class="float-right img-fluid m-auto" style="max-height:90px" alt="الموقع الرسمي لرئاسة جمهوريـــــة مصـــــــــــر العربية" title="الموقع الرسمي لرئاسة الجمهورية"></a>
+<p class="mb-0 pr-3"><a href="https://www.presidency.eg/AR/" class="text-white pb-2">الموقع الرسمي <br /> لرئاسة الجمهورية </a></p>
+</div>
+
+
+<div class="col-lg-6 col-md-6 col-12 d-flex align-items-center justify-content-start social">
+<div class="social-links mt-md-0 mt-3 d-flex align-items-center">
+<a href="https://facebook.com/BenhaNationalUniversity" class="facebook"><i class="fab fa-facebook-square"></i></a>
+<a href="https://linkedin.com/school/BenhaNationalUniversity" class="linkedin"><i class="fab fa-linkedin"></i></a>
+<a href="tel:+01205223222" class="whatsapp"><i class="fab fa-whatsapp-square"></i></a>
+<a href="https://instagram.com/#" class="instagram"><i class="fab fa-instagram-square"></i></a>
+<a href="https://twitter.com/#" class="twitter"><i class="fab fa-twitter-square"></i></a>
+<a href="https://youtube.com/#" class="youtube"><i class="fab fa-youtube-square"></i></a>
+<a href="#" class="rss"><i class="fas fa-rss-square"></i></a>
+<a href="https://outlook.office365.com" target="_blank" class="mail py-0 d-inline-flex"><img src="https://bnu.edu.eg/assets/img/out.png" class="img-fluid"></a>
+</div>
+</div>
+
+</div>-->
+</div>
+</div>
+
+<div class="container">
+<div class="copyright">
+<p class="text-center text-white">
+<a href="https://bnu.edu.eg/page/policy">الشروط والأحكام</a>
+<!--| <a href="https://bu.edu.eg/univ_info/Disclaimer.php">إخلاء المسئولية</a>-->
+| <a href="https://bnu.edu.eg/page/eparticipation">المشاركة الإلكترونية </a> |
+<a href=https://bnu.edu.eg/page/FAQS>الاسئلة الشائعة </a><br class="mb-0"/>
+</div>
+<div class="credits">تصميم وتطوير البوابة الإلكترونية بجامعة بنها © 2022</div>
+</div>
+
+</footer>
+
+<a href="#" class="back-to-top"><i class="fas fa-angle-up"></i></a>
+<!-- End Footer -->
+
+<!-- JS Files -->
+<script src="https://bnu.edu.eg/assets/vendor/jquery/jquery.min.js"></script>
+<script src="https://bnu.edu.eg/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="https://bnu.edu.eg/assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+<script src="https://bnu.edu.eg/assets/vendor/jquery-sticky/jquery.sticky.js"></script>
+<script src="https://bnu.edu.eg/assets/vendor/purecounter/purecounter_vanilla.js"></script>
+<script src="https://bnu.edu.eg/assets/vendor/swiper/swiper-bundle.min.js"></script>
+<script src="https://bnu.edu.eg/assets/vendor/glightbox/js/glightbox.min.js"></script>
+<script src="https://bnu.edu.eg/assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+
+<!--<script src="https://kit.fontawesome.com/285972c6c8.js"></script>-->
+<script src="https://bnu.edu.eg/assets/vendor/snow/snow.js"></script>
+
+<!-- Template Main JS File -->
+<script src="https://bnu.edu.eg/assets/js/main.js"></script>
+<script src="https://bnu.edu.eg/assets/js/script.js"></script>
+
+
+<!-- <script src="https://bnu.edu.eg/js/app.js"></script> -->
+
+<script src="https://bnu.edu.eg/js/sweetalert.min.js"></script>
+
+</body>
+</html>
+
+
+
+
