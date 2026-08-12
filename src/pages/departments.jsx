@@ -1,23 +1,21 @@
+import { Link } from "react-router-dom";
+import Colleges from "../data/Colleges";
+
 function Departments() {
   return (
     <main className="departments-page">
 
       {/* Page Header */}
       <section className="departments-hero">
-
         <div className="departments-content">
-
           <h1>Our Faculties</h1>
 
           <p>
             Explore the faculties and academic fields
             available at Benha National University.
           </p>
-
         </div>
-
       </section>
-
 
       {/* Faculties */}
       <section className="faculties-section">
@@ -26,82 +24,26 @@ function Departments() {
 
         <div className="faculties-grid">
 
-          <article className="faculty-card">
-            <h3>Medicine</h3>
-            <p>
-              Faculty of Medicine and its academic programs.
-            </p>
-          </article>
+          {Colleges.map((college) => (
+            <article
+              className="faculty-card"
+              key={college.id}
+            >
+              <h3>{college.name}</h3>
 
-          <article className="faculty-card">
-            <h3>Dentistry</h3>
-            <p>
-              Faculty of Dentistry and its academic programs.
-            </p>
-          </article>
+              <p>
+                Explore the faculty and its academic programs.
+              </p>
 
-          <article className="faculty-card">
-            <h3>Physical Therapy</h3>
-            <p>
-              Faculty of Physical Therapy and its academic programs.
-            </p>
-          </article>
-
-          <article className="faculty-card">
-            <h3>Engineering</h3>
-            <p>
-              Faculty of Engineering and its academic programs.
-            </p>
-          </article>
-
-          <article className="faculty-card">
-            <h3>Computer Science</h3>
-            <p>
-              Faculty of Computer Science and its academic programs.
-            </p>
-          </article>
-
-          <article className="faculty-card">
-            <h3>Economics & Business</h3>
-            <p>
-              Faculty of Economics and Business.
-            </p>
-          </article>
+              <Link to={`/departments/${college.id}`}>
+                View Faculty
+              </Link>
+            </article>
+          ))}
 
         </div>
 
       </section>
-{/* Academic Departments */}
-<section className="academic-departments">
-
-  <h2>Academic Departments</h2>
-
-  <div className="departments-grid">
-
-    <article className="department-item">
-      <h3>Department Name</h3>
-      <p>
-        Academic department information will be displayed here.
-      </p>
-    </article>
-
-    <article className="department-item">
-      <h3>Department Name</h3>
-      <p>
-        Academic department information will be displayed here.
-      </p>
-    </article>
-
-    <article className="department-item">
-      <h3>Department Name</h3>
-      <p>
-        Academic department information will be displayed here.
-      </p>
-    </article>
-
-  </div>
-
-</section>
 
     </main>
   );
