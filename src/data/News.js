@@ -17,7 +17,7 @@ The University extends its sincere congratulations to Omar El-Taher and wishes h
   id: 2,
   title: "Benha National University Achieves Fourth Place in the Innovative Bridge Competition 2026",
   date: "2026-08-09",
-  image: "images/news2.jpg",
+  image: "images/news2.png",
   content: `Benha National University has achieved a new distinction in engineering competitions, with the Survivals team from the Faculty of Engineering securing fourth place in the Innovative Bridge Competition 2026 (IBC 2026), organised by the Faculty of Engineering in Shoubra, Benha University. The competition brought together 18 teams representing 11 Egyptian universities, in a highly competitive field that showcased a strong level of creativity, innovation, and engineering expertise among the participating students.
 
 The achievement was recognised in the presence of Prof. Gamal El-Saeed, Chair of Benha National University's Board of Trustees; Prof. Tamer Samir, President of Benha National University; Prof. Nasser El-Gizawy, President of Benha University; and Prof. Mohamed Saeed, Dean of the Faculty of Engineering in Shoubra. The winning teams were honoured during the ceremony. The competition was named after the late Prof. Ibrahim Shaaban in recognition of his contributions to the field of civil engineering.
