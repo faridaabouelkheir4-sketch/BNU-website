@@ -4,7 +4,11 @@ import About from "../pages/about";
 import Departments from "../pages/departments";
 import Programs from "../pages/programs";
 import DepartmentDetails from "../pages/DepartmentDetails";
+import NewsPage from "../pages/news";
 import NewsDetails from "../pages/NewsDetails";
+import Students from "../pages/students";
+import Grants from "../pages/grants";
+import Contact from "../pages/contact";
 import NotFound from '../pages/NotFound';
 
 function AppRoutes() {
@@ -14,15 +18,12 @@ function AppRoutes() {
       <Route path="/about" element={<About />} />
       <Route path="/departments" element={<Departments />} />
       <Route path="/departments/:id" element={<DepartmentDetails />} />
+      <Route path="/students" element={<Students />} />
       <Route path="/programs" element={<Programs />} />
-      <Route path="/news" element={<div>News</div>} />
+      <Route path="/grants" element={<Grants />} />
+      <Route path="/news" element={<NewsPage />} />
       <Route path="/news/:id" element={<NewsDetails />} />
-      <Route path="/announcements" element={<div>Announcements</div>} />
-      <Route path="/faculty" element={<div>Faculty</div>} />
-      <Route path="/faculty/:id" element={<div>Faculty Details</div>} />
-      <Route path="/services" element={<div>Services</div>} />
-      <Route path="/events" element={<div>Events</div>} />
-      <Route path="/contact" element={<div>Contact</div>} />
+      <Route path="/contact" element={<Contact />} />
       <Route path="*" element={<NotFound />} />
     </Routes>
   );
